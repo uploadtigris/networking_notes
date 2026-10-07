@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5186bf13874ccbe8",
+        "id": "c83944e2e6c9c225",
         "type": "tabs",
         "children": [
           {
-            "id": "73447a349caac0f8",
+            "id": "3b6f610e9e79eb5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - AWS Solutions Architect Associate/0 - Notes.md",
+                "file": "00 - Zettelkasten/5 - Media and Connectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Notes"
+              "title": "5 - Media and Connectors"
             }
           },
           {
-            "id": "1967ef672fe1f76c",
+            "id": "35d91b4c7966997c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - AWS Solutions Architect Associate/0 - Notes.md",
+                "file": "03 - CCNA/Neil Anderson Course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Notes"
-            }
-          },
-          {
-            "id": "df523d4b156718cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Zettelkasten/Route 53.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Route 53"
-            }
-          },
-          {
-            "id": "47ca4859a1a0b162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - Zettelkasten/- Route 53.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "- Route 53"
+              "title": "Neil Anderson Course"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -121,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.505859375,
-    "collapsed": true
+    "width": 307.505859375
   },
   "right": {
     "id": "f3d88208aed16920",
@@ -227,45 +200,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "df523d4b156718cd",
+  "active": "35d91b4c7966997c",
   "lastOpenFiles": [
-    "00 - Zettelkasten/Route 53.md",
-    "04 - AWS Solutions Architect Associate/0 - Notes.md",
-    "00 - Zettelkasten/- Route 53.md",
-    "08 - AWS AI Practitoner/0 - Notes.md",
+    "02 - Net+/Dion Udemy Course Notes.md",
+    "00 - Career/# Timeline and Certs Networking.md",
+    "01 - Security+/Professor Messer Course.md",
+    "03 - CCNA/Neil Anderson Course.md",
+    "01 - Security+/Things.md",
+    "01 - Security+/PBQs.md",
+    "01 - Security+/HTTP, HTTPS & SSL, TLS.md",
+    "01 - Security+/Course Compass Exam Notes.md",
+    "00 - Zettelkasten/5 - Media and Connectors.md",
+    "00 - Zettelkasten/6 - Distribution Systems.md",
+    "00 - Zettelkasten/9 - IP Addressing.md",
+    "00 - Zettelkasten/8 - Ethernet Switching.md",
+    "00 - Zettelkasten/7 - Wireless Networks.md",
+    "01 - Security+/Dion Course/20 - Hardening.md",
+    "01 - Security+/Dion Course/9 - Risk Management.md",
+    "01 - Security+/Dion Course/7 - Data Protection.md",
+    "03 - CCNA",
+    "00 - Logs/01-26.md",
+    "01 - Security+/Dion Course/26 - Automation and Orchestration.md",
+    "00 - Zettelkasten/Practice Exam 6.md",
+    "00 - Zettelkasten/Practice Exam 3.md",
+    "02 - Security+/Practice Exam Notes/practice exam scores.md",
+    "02 - Security+/Last week cram guide.md",
+    "00 - Zettelkasten/Troubleshooting Certificate Issues.md",
+    "00 - Zettelkasten/Malware and Viruses.md",
+    "00 - Zettelkasten/Networking, Scanning, and Nmap.md",
+    "02 - Security+/Ports.md",
     "08 - AWS AI Practitoner",
-    "08 - AWS AI Practitoner.md",
-    "00 - Zettelkasten/3 - Storage.md",
-    "00 - Zettelkasten/Practice Exam 14.md",
-    "00 - Zettelkasten/Practice Exam 15.md",
-    "00 - Zettelkasten/Practice Exam 16.md",
-    "02 - Security+/Practice Exam Notes/Course Compass Exams.md",
-    "00 - Zettelkasten/4 - Database.md",
-    "03 - RHCSA/Udemy Course/8 - Disk Management and Run Levels.md",
     "07 - CKA",
     "06 - RHCSA",
     "05 - AWS CloudOps Engineer",
     "04 - AWS Solutions Architect Associate",
-    "03 - RHCSA/Udemy Course/8 - D.md",
-    "03 - RHCSA/Udemy Course/7 - Networking, Services, and System Updates.md",
-    "03 - RHCSA/Udemy Course/6 - Shell Scripting.md",
-    "03 - RHCSA/Udemy Course/5 - System Administration.md",
-    "03 - RHCSA/Udemy Course/4 - Linux Fundamentals.md",
-    "03 - RHCSA/Udemy Course/3 - System Access and File System.md",
-    "03 - RHCSA/Udemy Course/2 - Download, Install and Configure.md",
-    "03 - RHCSA/Resources.md",
     "03 - RHCSA/Udemy Course/Untitled",
     "03 - RHCSA/Udemy Course/2 - Download, Install and Configure",
     "03 - RHCSA/Udemy Course",
-    "03 - RHCSA/Roadmap.md",
-    "03 - RHCSA/Items.md",
-    "00 - Career/Timeline and Certs.md",
-    "02 - Security+/Inside Cloud and Security Course/Domain 4 - Security Operations.md",
-    "02 - Security+/Inside Cloud and Security Course/Domain 3 - Security Architecture.md",
-    "02 - Security+/Things.md",
     "imgs/Pasted image 20260215192443.png",
-    "02 - Security+/Dion Course",
-    "02 - Security+/Inside Cloud and Security Course",
+    "01 - Security+/Dion Course",
     "imgs/Pasted image 20260131125507.png",
     "imgs/Pasted image 20260131114724.png",
     "imgs/Pasted image 20260207153205.png",
